@@ -20,6 +20,8 @@
 
 ## Summary
 
+![final-view](final-app.gif)
+
 Learning Goal:
 
 - Application with user login, registration, reset and change password feature
